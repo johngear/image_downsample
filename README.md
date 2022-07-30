@@ -5,3 +5,8 @@ The idea of this short little week-in-between-classes project is that different 
 I think there could be a crypto use-case, where every subsequent transfer of an image releases a key that can be used to get a higher quality image of an NFT (and then maybe this the real advent of intrisinc value for NFTs, if you can say "i am the only person with this highest quality version of this image, because no one else has this encyrption key", you would actually have something that others don't)
 
 Anyway, its just fun to mess around in python with images. 
+
+INFO:
+testertester.png is the input image
+
+image4 is the output after being downsampled, encrypted and decrypted...
